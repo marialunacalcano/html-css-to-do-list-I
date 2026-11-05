@@ -10,7 +10,7 @@
     "ghcr.io/devcontainers/features/github-cli:1": {}
   },
   "forwardPorts": [5432],
-  "postCreateCommand": "git config --global user.name '<Student>' && git config --global user.email '<student@example.com>' && git config --global core.editor 'code'",
+  "postCreateCommand": "git config --global user.name 'marialunacalcano' && git config --global user.email '<student@example.com>' && git config --global core.editor 'code'",
   "customizations": {
     "vscode": {
       "extensions": [
